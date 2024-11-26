@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\tema5\tema5\bin\Debug\tema5.exe.config
+C:\Users\Lenovo\source\repos\tema5\tema5\bin\Debug\tema5.exe
+C:\Users\Lenovo\source\repos\tema5\tema5\bin\Debug\tema5.pdb
+C:\Users\Lenovo\source\repos\tema5\tema5\obj\Debug\tema5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\tema5\tema5\obj\Debug\tema5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\tema5\tema5\obj\Debug\tema5.exe
+C:\Users\Lenovo\source\repos\tema5\tema5\obj\Debug\tema5.pdb
